@@ -1,5 +1,5 @@
 {
-  "name": "kb-web-react-playground",
+  "name": "@playgrounds/react",
   "version": "1.0.0",
   "main": "lib/index.js",
   "license": "MIT",
